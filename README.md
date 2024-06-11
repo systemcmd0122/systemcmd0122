@@ -42,5 +42,5 @@
 
 ## 🔥 My Popular Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=systemcmd0122&repo=awesome-project&theme=radical)](https://github.com/systemcmd0122/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=systemcmd0122&repo=awesome-project&theme=github.io)](https://github.com/systemcmd0122/github.io)
 
